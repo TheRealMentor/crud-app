@@ -6,3 +6,5 @@
 
 * To build a simple react app with CRUD functionality.
 * To understand how it works.
+
+Note: This README is for gh-pages.
